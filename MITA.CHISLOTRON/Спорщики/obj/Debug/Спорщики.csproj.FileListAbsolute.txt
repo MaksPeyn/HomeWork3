@@ -1,0 +1,7 @@
+c:\users\максим\documents\visual studio 2015\Projects\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\bin\Debug\Спорщики.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\bin\Debug\Спорщики.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\bin\Debug\Domain.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\bin\Debug\Domain.pdb
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.exe
+C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.pdb
