@@ -7,9 +7,7 @@ namespace Domain
         private readonly Random _random = new Random();
         public void Generate()
         {
-            int v = _random.Next();
-            NewNumber?.Invoke(v);
-            Console.WriteLine(v);
+            NewNumber?.Invoke(_random.Next());
         }
         public event Gambler.Number NewNumber;
     }
