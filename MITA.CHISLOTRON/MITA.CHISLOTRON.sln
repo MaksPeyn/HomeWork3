@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Спорщики", "Спорщики\Спорщики.csproj", "{58B75C71-C677-4A16-850B-ECEE46CD81CC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sporshiki", "Спорщики\Sporshiki.csproj", "{58B75C71-C677-4A16-850B-ECEE46CD81CC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{65AE67AB-5BE2-4A15-9BEE-078164C1418B}"
 EndProject

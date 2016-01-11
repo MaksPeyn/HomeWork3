@@ -1,0 +1,7 @@
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.exe
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\bin\Debug\Спорщики.exe
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\bin\Debug\Спорщики.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\bin\Debug\Domain.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\obj\Debug\Sporshiki.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\bin\Debug\Domain.dll

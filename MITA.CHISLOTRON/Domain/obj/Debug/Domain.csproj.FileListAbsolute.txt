@@ -3,3 +3,8 @@ c:\users\максим\documents\visual studio 2015\Projects\MITA.CHISLOTRON\Doma
 c:\users\максим\documents\visual studio 2015\Projects\MITA.CHISLOTRON\Domain\bin\Debug\Domain.pdb
 c:\users\максим\documents\visual studio 2015\Projects\MITA.CHISLOTRON\Domain\obj\Debug\Domain.exe
 c:\users\максим\documents\visual studio 2015\Projects\MITA.CHISLOTRON\Domain\obj\Debug\Domain.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Domain\bin\Debug\Domain.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Domain\obj\Debug\Domain.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Domain\bin\Debug\Domain.dll
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Domain\obj\Debug\Domain.dll

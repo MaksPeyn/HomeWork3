@@ -2,16 +2,14 @@
 
 namespace Domain
 {
-    class Program
-    {
-        static void Main(){}
-    }
     public class Numbertron
     {
+        private readonly Random _random = new Random();
         public void Generate()
         {
-            var random = new Random();
-            NewNumber?.Invoke(random.Next());
+            int v = _random.Next();
+            NewNumber?.Invoke(v);
+            Console.WriteLine(v);
         }
         public event Gambler.Number NewNumber;
     }

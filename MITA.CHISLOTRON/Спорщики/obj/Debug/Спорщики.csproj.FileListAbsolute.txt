@@ -5,3 +5,5 @@ C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Сп
 C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\bin\Debug\Domain.pdb
 C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.exe
 C:\Users\Максим\Documents\Visual Studio 2015\Projects\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.pdb
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.exe
+C:\Users\Максим\Documents\GitHub\HomeWork3\MITA.CHISLOTRON\Спорщики\obj\Debug\Спорщики.pdb
